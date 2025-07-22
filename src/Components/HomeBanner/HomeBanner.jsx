@@ -15,7 +15,7 @@ function HomeBanner() {
                 Frontend Developer | Transforming Ideas into Intuitive and
                 Visually Stunning User Experiences.
               </p>
-              <a href={Resume} download="Hitesh Resume 2024" className=" mt-5 text-white inline-block uppercase py-2.5 px-7 bg-gradient-to-r from-[#8490ff] to-[#62bdfc]">Download Resume</a>
+              <a href={Resume} download="hitesh_cv_jun_2025" className=" mt-5 text-white inline-block uppercase py-2.5 px-7 bg-gradient-to-r from-[#8490ff] to-[#62bdfc]">Download Resume</a>
             </div>
             <div className="md:basis-1/2">
                 <img src={heroImg} alt="hero-img" width="90%"/>
